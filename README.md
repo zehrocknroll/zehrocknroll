@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- :telescope: I work in the fields of data science, machine learning and artificial intelligence.
-
+- 🌱 I am studying data science, machine learning and artificial intelligence
+- :zap: In my spare time, I read articles and books related to my field. I spend time listening to podcasts about AI, Data Science, ML.
+- 💬 Ask me about: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-kara-a4a4271a5/)
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zehra-kara-a4a4271a5/)
 
 ### :hammer_and_wrench: Languages and Tools :
