@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zehra-kara-a4a4271a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -32,4 +32,13 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/llephes">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+
+</div id="badges">
+  https://komarev.com/ghpvc/?zehrocknroll
+<img src="https://komarev.com/ghpvc/?username=zehrocknroll&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
+</h1>
 </div>
