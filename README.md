@@ -64,12 +64,47 @@ Here are some ideas to get you started:
 </div>
 </div>
 
+
+## My Activities :mailbox_with_mail:
+
+| BLOGS :open_book: | BOOTCAMP :book: |
+| :--- | :--- |
+| [Yeniler Grubu (Liman Ressamları)](https://medium.com/@artistsister/t%C3%BCrk-sanat-tarihinin-i%CC%87ncisi-yeniler-grubu-liman-ressamlar%C4%B1-8077e6df4a8e) | [Global AI Hub](https://globalaihub.com/) |
+| [NAN](NAN) | [Miuul ML](https://courses.miuul.com/courses) |
+<!--
+| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
+-->
+
+:star: From [Zehra Kara](https://github.com/zehrocknroll/)
+
+
+
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hl5g6zprpafain4mdj3qkkl26a)
+
+
+
+
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehrocknroll&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=zehrocknroll&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=zehrocknroll&show_icons=true&theme=radical)
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QVt3D1t3p6V4qL4QOR/giphy-downsized-large.gif" width="250"/>
 </div>
+
+
+
+
+
+
+
 
