@@ -125,13 +125,10 @@ Here are some ideas to get you started:
 :star: From [Zehra Kara](https://github.com/zehrocknroll/)
 
 
+
 ----
 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hl5g6zprpafain4mdj3qkkl26a)
-
+![Github stats](https://activity-graph.herokuapp.com/graph?username=zehrocknroll&theme=minimal)
 
 ----
 
