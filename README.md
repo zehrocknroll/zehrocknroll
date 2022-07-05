@@ -20,7 +20,30 @@ Here are some ideas to get you started:
 </div>
 
 ----
+<div id="header" align = "center">
+<img src="https://komarev.com/ghpvc/?username=zehrocknroll&style=flat-square&color=blue" alt=""/>
+</div>
 
+----
+
+# <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
+
+  <a href="https://www.linkedin.com/in/zehra-kara-a4a4271a5/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/llephes">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zehrocknroll/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:zehrakara12f@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+
+<!--
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/zehra-kara-a4a4271a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,11 +53,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+-->
 
-
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=zehrocknroll&style=flat-square&color=blue" alt=""/>
-</div>
 
 ----
 
