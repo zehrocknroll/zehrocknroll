@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="250"/>
 </div>
 
 
@@ -69,4 +69,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehrocknroll&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QVt3D1t3p6V4qL4QOR/giphy-downsized-large.gif" width="250"/>
+</div>
 
