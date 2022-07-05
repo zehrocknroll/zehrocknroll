@@ -65,13 +65,31 @@ Here are some ideas to get you started:
 </div>
 
 
-## My Activities :mailbox_with_mail:
+## :arrow_down: My Certifications 
+
+- [Python Programming for Data Science](https://courses.miuul.com/courses/1814403/certificate?certificate_first_issued=true)
+- [First Step to Artificial Intelligence](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMjk3MDcsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
+- [Python: Python Programming for Artificial Intelligence and Data Science](https://www.udemy.com/certificate/UC-5ab05d3a-6fe1-421a-9ed2-ff7d57cf12bd/) 
+
+
+
+### :loudspeaker: You can checkout my blogs 
+
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=artistsister&type=vertical)](https://medium.com/@artistsister)
+
+<!--
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/artistsister/Github-Cards-External-Blogs) 
+-->
+
+
+<!--
+## :mailbox_with_mail: My Activities 
 
 | BLOGS :open_book: | BOOTCAMP :book: |
 | :--- | :--- |
 | [Yeniler Grubu (Liman Ressamları)](https://medium.com/@artistsister/t%C3%BCrk-sanat-tarihinin-i%CC%87ncisi-yeniler-grubu-liman-ressamlar%C4%B1-8077e6df4a8e) | [Global AI Hub](https://globalaihub.com/) |
 | [NAN](NAN) | [Miuul ML](https://courses.miuul.com/courses) |
-<!--
+
 | [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
 -->
 
@@ -84,7 +102,6 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31hl5g6zprpafain4mdj3qkkl26a)
-
 
 
 
