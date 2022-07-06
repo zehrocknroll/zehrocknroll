@@ -129,10 +129,6 @@ Here are some ideas to get you started:
 | [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
 -->
 
-:star: From [Zehra Kara](https://github.com/zehrocknroll/)
-
-
-
 ----
 
 ![Github stats](https://activity-graph.herokuapp.com/graph?username=zehrocknroll&theme=minimal)
@@ -151,7 +147,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/QVt3D1t3p6V4qL4QOR/giphy-downsized-large.gif" width="250"/>
 </div>
 
+----
 
+:star: From [Zehra Kara](https://github.com/zehrocknroll/)
 
 
 
