@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ### 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Data-Preprocessing&theme=radical "Data Preprocessing")](https://github.com/zehrocknroll/Data-Preprocessing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Python-Exerices&theme=highcontrast "Python Exercise")](https://github.com/zehrocknroll/PythonBootcamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Python-Exercise&theme=highcontrast "Python Exercise")](https://github.com/zehrocknroll/PythonBootcamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Readme-Template&theme=highcontrast "Readme Template")](https://github.com/zehrocknroll/Readme-Template)
 
 ----
