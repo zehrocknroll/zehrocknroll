@@ -101,6 +101,14 @@ Here are some ideas to get you started:
 
 ----
 
+### 👀 Active Repo
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Data-Preprocessing&theme=radical "Data Preprocessing")](https://github.com/zehrocknroll/Data-Preprocessing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=PythonBootcamp&theme=highcontrast "Python Bootcamp")](https://github.com/zehrocknroll/PythonBootcamp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Readme-Template&theme=highcontrast "Readme Template")](https://github.com/zehrocknroll/Readme-Template)
+
+----
+
 ## :arrow_down: My Certifications 
 
 - [Python Programming for Data Science](https://courses.miuul.com/courses/1814403/certificate?certificate_first_issued=true)
