@@ -132,7 +132,6 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehrocknroll&theme=dark&background=000000)](https://git.io/streak-stats)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=zehrocknroll&show_icons=true&theme=blue) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zehrocknroll&show_icons=true&theme=radical)
 
 ----
