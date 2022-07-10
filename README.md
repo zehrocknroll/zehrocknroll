@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=zehrocknroll&style=flat-square&color=blue" alt=""/>
 </div>
 
-----
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/zehrocknroll" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</div>
-
 
 
 ----
@@ -93,14 +87,14 @@ Here are some ideas to get you started:
 </a>
 
 ----
-
+<!--
 ### 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Data-Preprocessing&theme=radical "Data Preprocessing")](https://github.com/zehrocknroll/Data-Preprocessing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=numpy&theme=highcontrast "Numpy")](https://github.com/zehrocknroll/numpy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Python-Exercise&theme=highcontrast "Python Exercise")](https://github.com/zehrocknroll/PythonBootcamp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Readme-Template&theme=highcontrast "Readme Template")](https://github.com/zehrocknroll/Readme-Template)
-
+-->
 ----
 
 ## :arrow_down: My Certifications 
