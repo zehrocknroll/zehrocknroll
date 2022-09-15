@@ -97,25 +97,6 @@ Here are some ideas to get you started:
 -->
 ----
 
-## :arrow_down: My Certifications 
-
-- [Data Analysis](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMjk3MDcsImNvdXJzZS1pZCI6OTU4NzksImNlcnQtaWQiOiI5NTgxNiJ9)
-- [Version Controls: Git and GitHub](https://www.linkedin.com/in/zehra-kara-a4a4271a5/details/certifications/)
-- [First Step to Artificial Intelligence](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMjk3MDcsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
-- [Python Programming for Data Science](https://courses.miuul.com/courses/1814403/certificate?certificate_first_issued=true)
-- [Python: Python Programming for Artificial Intelligence and Data Science](https://www.udemy.com/certificate/UC-5ab05d3a-6fe1-421a-9ed2-ff7d57cf12bd/) 
-
-----
-
-### :loudspeaker: You can checkout my blogs 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=artistsister&type=vertical)](https://medium.com/@artistsister)
-
-<!--
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/artistsister/Github-Cards-External-Blogs) 
--->
-
-
 <!--
 ## :mailbox_with_mail: My Activities 
 
